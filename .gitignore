@@ -1,0 +1,5 @@
+vendor/
+node_modules/
+public_html/dist
+application/config/settings.php
+rozneinfo.txt
